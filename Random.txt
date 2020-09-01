@@ -7,3 +7,6 @@ house
 car
 door
 table
+yellow 
+blue
+green
